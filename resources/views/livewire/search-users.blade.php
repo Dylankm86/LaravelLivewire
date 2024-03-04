@@ -3,7 +3,7 @@
  
     <ul>
         @foreach($users as $user)
-            <li>{{ $user->username }}</li>
+            <li>{{ $user->name }}</li>
         @endforeach
     </ul>
 </div>

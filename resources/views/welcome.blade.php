@@ -1,1 +1,1 @@
-<a href="{{url()}}"><button>search users</button></a>
+<a href="{{ url('/search-users') }}" class="btn btn-primary">Search Users</a>
