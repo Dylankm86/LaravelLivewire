@@ -7,7 +7,7 @@
     @livewireStyles
 </head>
 <body>
-    <livewire:search-users-component />
+    <livewire:search-users />
     @livewireScripts
 </body>
 </html>
