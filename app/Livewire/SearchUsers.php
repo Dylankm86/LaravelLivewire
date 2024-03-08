@@ -20,6 +20,5 @@ class SearchUsers extends Component
 
     public function submit()
     {
-        // This method doesn't need to do anything. It's just here to cause Livewire to refresh the component when the form is submitted.
     }
 }
